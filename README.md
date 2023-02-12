@@ -15,9 +15,13 @@ Esse é o meu primeiro projeto onde crio meu próprio código, eu sei que é alg
 
 ## 🛠 Technologies
 
-<img align="center" style="padding-right:20px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img align="center" style="padding-right:20px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" açt="CSS3">
-<img align="center" style="padding-right:20px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+<img align="center" alt="HTML5" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="CSS3" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="JavaScript" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ## 📷 Exemple
+This is the link to 
+<a target="_blank" href="https://www.figma.com/file/llSgncCm58ICdMRXqKESCN/TemperatureConverter?node-id=0%3A1&t=XvQ7xG8tP0uQjwM2-1">
+  Figma!
+</a>
 <img src="https://media.discordapp.net/attachments/1052320663819526144/1074167386615316591/image.png?width=1307&height=676" alt="exemple of aplication">
