@@ -10,7 +10,7 @@ This is my first project where I create the code myself, I know its simple, but 
 <summary>
 <h3><img alt="Bandeira do Brasil" width="30px" height="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/243px-Flag_of_Brazil.svg.png"> - 🇧🇷 - Português</h3>
 </summary>
-Esse é o meu primeiro projeto onde crio meu proprio codigo, eu sei que é algo simples, porem todos iniciamos com algo basico. Eu já fiz alguns projetos assistindo a videos, porem isso é apenas copiar e colar, e acho que não aprendo muito fazendo assim. Então nesse projeto eu fiz testes e mais testes, para chegar a um resultado, esse provavelmente não é o melhor codigo, porem funciona!
+Esse é o meu primeiro projeto onde crio meu próprio código, eu sei que é algo simples, porem todos iniciamos com algo básico. Eu já fiz alguns projetos assistindo a vídeos, porem isso é apenas copiar e colar, e acho que não aprendo muito fazendo assim. Então nesse projeto eu fiz testes e mais testes, para chegar a um resultado, esse provavelmente não é o melhor código, porem funciona!
 </details>
 
 ## 🛠 Technologies
