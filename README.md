@@ -19,7 +19,7 @@ Esse é o meu primeiro projeto onde crio meu próprio código, eu sei que é alg
 <img align="center" alt="CSS3" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="JavaScript" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-## 📷 Exemple
+## 📷 Example
 This is the link to 
 <a target="_blank" href="https://www.figma.com/file/llSgncCm58ICdMRXqKESCN/TemperatureConverter?node-id=0%3A1&t=XvQ7xG8tP0uQjwM2-1">
   Figma!
