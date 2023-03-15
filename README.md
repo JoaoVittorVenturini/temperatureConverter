@@ -30,5 +30,4 @@ This is the link to
 This is the link to
 <a target="_blank" href="https://joaovittorventurini.github.io/temperatureConverter/">
   Page!
- </a>
-<img src="https://media.discordapp.net/attachments/1052320663819526144/1074167386615316591/image.png?width=1307&height=676" alt="exemple of aplication">
+</a>
